@@ -1,0 +1,26 @@
+Q1.What is a computer
+Ans- A computer is an electronic device that stores and process data, often in binary form in accordance with commands from a variable programme
+
+	INPUT ------->PROCESS------->OUTPUT
+
+Q2.What is a RAM
+Ans- Random Access Memory abbreviated as RAM which is a semiconductor device. RAM refers to the memory that can processor can acces directly. It is a fast,compac and volatile memory.
+
+Q3.Where is data stored in computer
+Ans- The data is stored in hard disk drive(hdd). usually hdd is replaced with sdd(solid state drive)
+
+Q4.What is that input device used to type text and numbers on a documnet in the computer system
+Ans-Keyboard
+
+Q5.What are the output devices
+Ans-Output device is a piece of a computer hardware that converts the data into a human-perceptible form
+example-monitor,printer,speaker,plotter
+
+Q6.Which is that input device that allows a user to move the cursor or pointer on the screen
+Ans-Mouse
+
+Q7.Which language is directly understood by the computer without a translation program
+Ans-Machine level language (0,1)
+
+Q8. What are input devices
+Ans-input device is a piece of a computer hardware that takes commands from the user

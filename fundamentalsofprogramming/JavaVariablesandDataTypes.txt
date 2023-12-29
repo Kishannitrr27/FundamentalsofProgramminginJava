@@ -1,0 +1,23 @@
+Q1.What is statically and dynamically typed programming languages
+Ans- Programming languages are referred to as statically typed if the memory of the variable is provided at the time of compilation for ex:c,c++,java
+     Programming languages are said to be dynamically typed if the memory for the variable is provided at the time of execution ex:python,javascript,php
+
+Q2.What is the variable in java
+Ans- A variable is the name of a memory-allocated reserved area.It may be thought as the name of memory location
+
+Q3. How to assign a value to variable
+Ans- using "=" this operator for example int age=18;
+
+Q4.What are primitive datat types in java
+Ans-int,byte,short,long,float,double,boolean and char
+
+Q5.what are identifiers in java
+Ans- An identifier is a name given to a package,class,interface,method or variable. all identifiers must have different names
+
+Q6. List the operators in java
+Ans- Arithematic, unary, assignment, relational, logical, ternary, bitwise,shift,
+
+
+
+Q7.Explain about increment and decrement operators and give an example
+Ans-The increment operator increases,and the decreement operator decreases the value of its operand by 1
